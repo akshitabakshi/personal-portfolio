@@ -167,6 +167,7 @@ nav ul li a:hover::after{
 
 }
 .container h1{
+    margin-top: 5%;
     color: darkolivegreen;
     margin-left: 25%;
     padding: 20px 10%;
@@ -300,7 +301,7 @@ nav ul li a:hover::after{
 .row1 p{
     margin-top: 2%;
     color: darkolivegreen;
-    margin-left: 6%;
+    margin-left: 8%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 .row2 p{
