@@ -106,7 +106,7 @@ nav ul li a:hover::after{
     border-radius: 15px;
 }*/
 .about-col-2{
-    margin-top: 7%;
+    margin-top: 5%;
     flex-basis: 60%;
     color: darkolivegreen;
 
